@@ -1,0 +1,3 @@
+E:\ООПиП\lab\ConsoleApplication5\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
+E:\ООПиП\lab\lab4\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
+E:\ООПиП\lab\lab7\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
